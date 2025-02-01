@@ -28,6 +28,7 @@ scraped the non -inspectable result website to download 4750 pdfs then extracted
 ### 1️⃣ Suspicious Centers Ranked by Full Marks (720)
 
 *Insert bar chart here*
+![image](https://github.com/user-attachments/assets/32049882-6aba-4738-8231-64b9e6c665e4)
 
 ### 2️⃣ High Score Distribution (650+ Marks)
 
