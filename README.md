@@ -27,20 +27,23 @@ scraped the non -inspectable result website to download 4750 pdfs then extracted
 
 ### 1️⃣ Suspicious Centers Ranked by Full Marks (720)
 
-*Insert bar chart here*
-![image](https://github.com/user-attachments/assets/32049882-6aba-4738-8231-64b9e6c665e4)
+![720percent](https://github.com/user-attachments/assets/0e4319fb-a3de-4691-bb5b-5e6c44b1c8c7)
+
+
 
 ### 2️⃣ High Score Distribution (650+ Marks)
 
-*Insert bar chart here*
+![650plus](https://github.com/user-attachments/assets/f5143a9a-6a9e-4e41-9b8a-2ce2b2b4e797)
+
 
 ### 3️⃣ Heatmap of Suspicious Centers by Score Ranges
 
-*Insert heatmap here*
+![heatmap_anamoly](https://github.com/user-attachments/assets/aeeb53ea-dfdd-463a-8de6-85bac317b4fa)
 
+very high = 700 + , high = 650 +
 ### 4️⃣ Misconduct Probability by State
 
-*Insert state-wise bar chart here*
+will be uploaded ....
 
 ## 🚀 Technologies Used
 
