@@ -34,7 +34,11 @@ scraped the non -inspectable result website to download 4750 pdfs then extracted
 
 ### 1️⃣ Suspicious Centers Ranked by Full Marks (720)
 
-![720percent](https://github.com/user-attachments/assets/0e4319fb-a3de-4691-bb5b-5e6c44b1c8c7)
+![Screenshot (164)](https://github.com/user-attachments/assets/ff3cc9ea-6f32-4c66-a38b-5192724a683f)
+
+total number of students who got full = 61
+
+
 
 
 
