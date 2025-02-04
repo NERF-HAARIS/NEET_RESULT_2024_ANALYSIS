@@ -1,4 +1,11 @@
 # NEET_RESULT_2024_ANALYSIS
+### Misconduct Probability by State
+![Screenshot (163)](https://github.com/user-attachments/assets/0cb1bdc2-95c8-4a26-9019-e7b51f0161c2)
+unknow = out of india
+### Findings
+There were totally 60 centers, where students scored Full marks that is 720 . Also within some of these centers more than 100 students from the same center scored above 650 plus.
+why is this something that needs to be stated, because never in the history of NEET examination more than one or two students have scored 720 and this shows taht this is not some gradual change , making it an anamoly - (The exact details can be seen in the visualization and notebooks )
+
 scraped the non -inspectable result website to download 4750 pdfs then extracted data form them to perform analysis 
 ## 📊 Objectives
 
@@ -41,9 +48,9 @@ scraped the non -inspectable result website to download 4750 pdfs then extracted
 ![heatmap_anamoly](https://github.com/user-attachments/assets/aeeb53ea-dfdd-463a-8de6-85bac317b4fa)
 
 very high = 700 + , high = 650 +
-### 4️⃣ Misconduct Probability by State
 
-will be uploaded ....
+
+
 
 ## 🚀 Technologies Used
 
@@ -52,4 +59,4 @@ will be uploaded ....
 - **PDFPlumber:** PDF text extraction.
 - **Matplotlib & Seaborn:** Visualizations.
 - **Selenium:** wev scraping
-
+- **regex:** data extraction 
